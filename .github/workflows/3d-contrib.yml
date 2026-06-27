@@ -21,8 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        with:
-          max-languages: 10
 
       - name: Commit & Push
         run: |
