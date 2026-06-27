@@ -235,7 +235,7 @@ const abhinav = {
 
 > 🏙️ *A 3D city built from your actual GitHub contributions — auto-updates daily*
 
-<img src="https://raw.githubusercontent.com/abhinavsai2006/abhinavsai2006/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhinavsai2006/abhinavsai2006/main/profile-3d-contrib/profile-night-view.svg?v=2" alt="3D Contribution Graph" width="100%"/>
 
 </div>
 
