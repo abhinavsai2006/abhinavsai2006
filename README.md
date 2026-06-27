@@ -1,383 +1,424 @@
 <!--
-  MADAPATI ABHINAV SAI — Ultimate Premium GitHub Profile README
-  Theme: Obsidian Luxe · Dark Luxury · Amethyst Glow
-  Design Style: Apple, Vercel, Stripe, Linear & Framer Inspired
+  ╔══════════════════════════════════════════════════════════╗
+  ║  MADAPATI ABHINAV SAI                                    ║
+  ║  Ultra-Premium GitHub Profile Experience                 ║
+  ║  Theme: Obsidian Luxe · Aurora · Deep Amethyst           ║
+  ╚══════════════════════════════════════════════════════════╝
 -->
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 1: HERO LANDING EXPERIENCE                      -->
+<!-- Pattern: Centered div + Capsule Render + Typing SVG     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
 
-<!-- HERO SECTION BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,25:1a0b2e,50:2d1b4e,75:4c1d95,100:7c3aed&height=260&section=header&text=Madapati%20Abhinav%20Sai&fontSize=64&fontColor=f5f3ff&fontAlignY=35&desc=Founding%20Software%20Engineer%20%C2%B7%20AI%20Researcher%20%C2%B7%20Full-Stack%20Architect&descAlignY=58&descSize=20&animation=twinkling&font=JetBrains%20Mono&stroke=7c3aed&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,15:1a0b2e,35:2d1b4e,60:4c1d95,100:7c3aed&height=280&section=header&text=Madapati%20Abhinav%20Sai&fontSize=62&fontColor=f5f3ff&fontAlignY=33&desc=Founding%20Software%20Engineer%20%C2%B7%20AI%20Researcher%20%C2%B7%20Full-Stack%20Architect&descAlignY=56&descSize=18&animation=twinkling&font=Montserrat&stroke=7c3aed&strokeWidth=1"/>
 
 <br/>
 
-<!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=Founding+Software+Engineer+%40+Qaulium+AI+%F0%9F%9A%80;Full-Stack+%7C+AI%2FML+%7C+Cloud+Architecture+%F0%9F%A7%A0;BERT+Fine-tuning+%7C+YOLO+%7C+LLM+Research+%F0%9F%94%AC;B.Tech+CSE+%40+VIT-AP+University+%F0%9F%8E%93;Building+Things+That+Matter+%E2%9C%A8;Zero+to+Production+in+6+Weeks+%E2%9A%A1" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+production+systems+from+zero+to+one+%F0%9F%9A%80;BERT+%C2%B7+YOLO+%C2%B7+Full-Stack+%C2%B7+Cloud+Architecture+%F0%9F%A7%A0;First+engineer+at+Qaulium+AI+%E2%80%94+shipped+in+6+weeks+%E2%9A%A1" alt="Typing Animation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-Internship-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%93%8D-India-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Location"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%92%BC-Founding_Engineer-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Role"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%93%9A-IEEE_Research-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Research"/>
 
 <br/><br/>
 
-<!-- Status Chips -->
-<div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Internship-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Status"/> &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-India-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Location"/> &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Role-Founding_Engineer-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Role"/> &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%9A_Research-IEEE-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Research"/> &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Building-Qaulium_AI-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Building"/>
-</div>
-
-<br/>
-
-<!-- Contact badging -->
-<div align="center">
-  <a href="mailto:abhinavsaimadapati@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=1a0b2e" alt="Email"/>
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/madapati-abhinav-sai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=1a0b2e" alt="LinkedIn"/>
-  </a> &nbsp;
-  <a href="https://abhinavsai.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=1a0b2e" alt="Portfolio"/>
-  </a> &nbsp;
-  <a href="https://github.com/abhinavsai2006">
-    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=1a0b2e" alt="GitHub"/>
-  </a>
-</div>
-
-<br/>
+<a href="mailto:abhinavsaimadapati@gmail.com"><img src="https://img.shields.io/badge/Email-1a0b2e?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/madapati-abhinav-sai"><img src="https://img.shields.io/badge/LinkedIn-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://abhinavsai.com"><img src="https://img.shields.io/badge/Portfolio-1a0b2e?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://github.com/abhinavsai2006"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/></a>
 
 </div>
 
-<!-- WAVE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=40&section=header&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-## 💻 About Me: Interactive Terminal
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 2: DEVELOPER TERMINAL                           -->
+<!-- Pattern: Fenced code block with shell prompt styling    -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-```bash
-$ whoami
-madapati-abhinav-sai
+## `>_ whoami`
 
-$ cat profile.json
-{
-  "focus": ["Full-Stack Architecture", "AI/ML Systems", "Research"],
-  "creed": "Build zero-to-one production platforms with extreme engineering discipline.",
-  "academic": "VIT-AP University — B.Tech CSE (AI & ML) 2024–2028"
-}
+```py
+#!/usr/bin/env python3
+"""Developer Profile — Madapati Abhinav Sai"""
 
-$ systemctl status abilities
-● Full-Stack Systems: React/Next.js, Node.js, Express, PostgreSQL, Supabase
-● AI/ML Architectures: Deep Learning, YOLO models, BERT fine-tuning, OpenCV
-● Cloud & Deployments: Automated CI/CD workflows, Docker virtualization, AWS, OCI
+class Engineer:
+    name       = "Madapati Abhinav Sai"
+    role       = "Founding Software Engineer @ Qaulium AI"
+    university = "VIT-AP University — B.Tech CSE (AI & ML), 2024–2028"
+    location   = "Amaravati, India 🇮🇳"
+
+    expertise  = {
+        "full_stack" : ["React", "Next.js", "Node.js", "Express", "PostgreSQL", "Supabase"],
+        "ai_ml"      : ["BERT Fine-Tuning", "YOLO", "Deep Learning", "OpenCV", "NLP"],
+        "cloud"      : ["AWS", "Docker", "CI/CD", "Vercel", "Cloudflare", "OCI"],
+    }
+
+    mission = "Build zero-to-one production platforms with extreme engineering discipline."
+
+    def current_status(self):
+        return "🟢 Open to Internship — seeking genuinely difficult work"
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
-## 🚀 Mission Control Dashboard
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 3: MISSION CONTROL DASHBOARD                    -->
+<!-- Pattern: Collapsible <details> panels                   -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none; padding-right: 10px;">
-      <blockquote>
-        <h4>🏢 Qaulium AI — SaaS Production</h4>
-        <p>Developing Admin and Employee SaaS dashboards with JWT-based RBAC, continuous CI/CD, and highly available services.</p>
-        <p><b>Status:</b> Active <code>Founding Engineer</code></p>
-      </blockquote>
-    </td>
-    <td valign="top" width="50%" style="border: none; padding-left: 10px;">
-      <blockquote>
-        <h4>⛏️ Coal Classification — YOLO Research</h4>
-        <p>Designing custom object detection models to benchmark YOLO variants on geological coal classification categories.</p>
-        <p><b>Status:</b> Active <code>YOLO Research</code></p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none; padding-right: 10px; padding-top: 15px;">
-      <blockquote>
-        <h4>🧠 Hybrid Sentiment Analysis — IEEE</h4>
-        <p>Fine-tuning BERT, LSTM, and Transformers for robust sentiment routing across multi-domain datasets.</p>
-        <p><b>Status:</b> Active <code>Paper Prep</code></p>
-      </blockquote>
-    </td>
-    <td valign="top" width="50%" style="border: none; padding-left: 10px; padding-top: 15px;">
-      <blockquote>
-        <h4>☁️ Cloud Infrastructure & DevOps</h4>
-        <p>Configuring scalable container virtualization, network security routing, and cloud simulation environments.</p>
-        <p><b>Status:</b> Active <code>AWS & OCI Integration</code></p>
-      </blockquote>
-    </td>
-  </tr>
+## 🛰️ Mission Control
+
+<details>
+<summary>🟢 <b>Qaulium AI — Production SaaS</b> &nbsp; <code>Founding Engineer</code></summary>
+<br/>
+<p>Building the entire product from zero: Landing Page, Admin Portal, Employee Portal, and Internal Tooling. Implemented JWT-based RBAC across all user tiers. Managing production releases on Vercel with zero-downtime deployments.</p>
+<p><b>Stack:</b> Next.js · Node.js · Express · JWT · Vercel CI/CD</p>
+</details>
+
+<details>
+<summary>🔬 <b>Coal Classification AI — YOLO Research</b> &nbsp; <code>Active</code></summary>
+<br/>
+<p>Benchmarking YOLOv8, YOLOv9, and YOLOv10 on geological coal classification datasets across five damage categories. Measuring mAP, precision, recall, and inference speed per architecture.</p>
+<p><b>Stack:</b> Python · YOLO · OpenCV · PyTorch</p>
+</details>
+
+<details>
+<summary>🧠 <b>Hybrid Sentiment Analysis — IEEE Paper</b> &nbsp; <code>In Preparation</code></summary>
+<br/>
+<p>Fine-tuning BERT and bidirectional LSTM networks for cross-domain sentiment classification. Implementing Explainable AI (XAI) feature routing to visualize classifier attention maps. Targeting IEEE conference submission.</p>
+<p><b>Stack:</b> Python · BERT · LSTM · HuggingFace · Scikit-learn</p>
+</details>
+
+<details>
+<summary>☁️ <b>Cloud & DevOps Infrastructure</b> &nbsp; <code>Learning</code></summary>
+<br/>
+<p>Configuring container orchestration, network security policies, and cloud simulation environments. Preparing for AWS Cloud Practitioner certification.</p>
+<p><b>Stack:</b> AWS · Docker · OCI · Linux · GitHub Actions</p>
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 4: CAREER TIMELINE                              -->
+<!-- Pattern: Nested blockquote with milestone markers       -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 💼 Career Timeline
+
+> **2025 — Present** &nbsp; `Founding Software Engineer`
+>
+> > **Qaulium AI** · Remote
+> >
+> > First and only engineer. Took the product from zero code to production in 6 weeks.
+> > Built Admin Portal, Employee Portal, and Landing Page with JWT-based RBAC.
+> > Managing cloud deployments on Vercel with automated CI/CD workflows.
+> > Owned the entire lifecycle: architecture → development → deployment → monitoring.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 5: PRODUCT SHOWCASE                             -->
+<!-- Pattern: HTML table grid — 2 projects per row           -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🚀 Product Showcase
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏏 CricketConnect Pro
+Full-stack sports venue booking and tournament management platform with three-tier RBAC and CI/CD deployment.
+
+`TypeScript` `React` `Node.js` `PostgreSQL` `Cloudflare Workers`
+
+**Status:** 🟢 Production &nbsp; [→ Code](https://github.com/abhinavsai2006/CricketConnect-Pro)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧺 LaundryHub AI SaaS
+AI-powered hostel laundry management with real-time order tracking, Firebase sync, and an NLP chatbot assistant.
+
+`TypeScript` `React` `Firebase` `Node.js`
+
+**Status:** 🟢 SaaS Live &nbsp; [→ Code](https://github.com/abhinavsai2006/LaundryHub)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Civic AI
+Intelligent citizen complaint routing using NLP priority scoring, FastAPI backend, and a React dashboard for government officials.
+
+`Python` `FastAPI` `React` `NLP`
+
+**Status:** ⚡ AI Platform &nbsp; [→ Code](https://github.com/abhinavsai2006/Civic-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 EduVision-X
+Computer vision student engagement analysis with real-time inference optimized for low-latency classroom feedback.
+
+`Python` `React` `Computer Vision` `Deep Learning`
+
+**Status:** 🤖 AI System &nbsp; [→ Code](https://github.com/abhinavsai2006/EduVision-X)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⛏️ Coal Classification AI
+Deep learning system comparing YOLO generations for geological coal classification across five categories.
+
+`Python` `YOLO` `OpenCV` `PyTorch`
+
+**Status:** 🔬 Research &nbsp; [→ Code](https://github.com/abhinavsai2006/Coal-Classification-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Hybrid Sentiment Analysis
+Multi-domain sentiment framework combining BERT, LSTM, and XAI explainability for cross-domain NLP classification.
+
+`Python` `BERT` `LSTM` `HuggingFace` `Scikit-learn`
+
+**Status:** 📄 IEEE Research &nbsp; [→ Code](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Portfolio Website
+Personal developer branding site with glassmorphic design and premium responsive components.
+
+`HTML5` `CSS3` `JavaScript`
+
+**Status:** ✅ Live &nbsp; [→ Code](https://github.com/abhinavsai2006/Abhinav-Sai-Portfiolo) &nbsp; [→ Demo](https://abhinavsai.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Qaulium AI Platform
+Enterprise B2B SaaS with multi-role admin panels, employee workforce management, and production RBAC systems.
+
+`Next.js` `Node.js` `Express` `JWT` `Vercel`
+
+**Status:** 🟢 Production &nbsp; *(Private Codebase)*
+
+</td>
+</tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-## 💼 Experience: Vertical Timeline
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 6: AI RESEARCH LABORATORY                       -->
+<!-- Pattern: H3 headers + indented metadata fields          -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-```
- 2025 — Present   ┃   🏢 Qaulium AI
-                  ┃   Founding Software Engineer (Remote)
-                  ┃   ➔ Built full landing product, Admin Portal & Employee Portal.
-                  ┃   ➔ Developed secure JWT-based Role-Based Access Control (RBAC).
-                  ┃   ➔ Managed cloud deployment workflows with zero production downtime.
-```
+## 🔬 AI Research Laboratory
 
----
+### Paper 1 · Hybrid Multi-Domain Sentiment Analysis Framework
 
-## 🌟 Featured Projects
+&nbsp;&nbsp;&nbsp;&nbsp;**Methods** &nbsp; BERT Transformer · Bidirectional LSTM · Explainable AI (XAI) feature routing
+&nbsp;&nbsp;&nbsp;&nbsp;**Dataset** &nbsp; Multi-domain text corpora (product reviews, social media, news)
+&nbsp;&nbsp;&nbsp;&nbsp;**Target** &nbsp;&nbsp; IEEE conference submission
+&nbsp;&nbsp;&nbsp;&nbsp;**Stage** &nbsp;&nbsp;&nbsp; `⏳ Manuscript in Preparation`
+&nbsp;&nbsp;&nbsp;&nbsp;**Code** &nbsp;&nbsp;&nbsp;&nbsp; [Multi-Domain-Sentiment-Analysis](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)
 
-> ### 🎓 Student Hub
-> *A full-featured campus life management platform supporting hostel logs, laundry queues, food ordering, and academic progress modules.*
->
-> 🛠️ **Tech Stack:** `Next.js` • `React` • `Supabase` • `PostgreSQL`
-> 🌟 **Status:** `🚀 SaaS Production`
-> 🔗 [Code Repository](https://github.com/abhinavsai2006/Abhinav-Sai-Portfiolo)
+### Paper 2 · YOLO Generation Comparison on Geological Datasets
 
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;**Methods** &nbsp; YOLOv8 · YOLOv9 · YOLOv10 object detection benchmarks
+&nbsp;&nbsp;&nbsp;&nbsp;**Dataset** &nbsp; Multi-category coal and mineral classification dataset
+&nbsp;&nbsp;&nbsp;&nbsp;**Target** &nbsp;&nbsp; Computer vision journal evaluation
+&nbsp;&nbsp;&nbsp;&nbsp;**Stage** &nbsp;&nbsp;&nbsp; `⏳ Experimental Phase`
+&nbsp;&nbsp;&nbsp;&nbsp;**Code** &nbsp;&nbsp;&nbsp;&nbsp; [Coal-Classification-AI](https://github.com/abhinavsai2006/Coal-Classification-AI)
 
-> ### 🏢 Qaulium AI Platform
-> *Modern B2B enterprise SaaS solution consisting of landing pages, multi-role admin panels, and employee workforce management portals.*
->
-> 🛠️ **Tech Stack:** `Next.js` • `Node.js` • `Express` • `JWT RBAC`
-> 🌟 **Status:** `🚀 Production`
-> 🔗 [Code Repository](https://github.com/abhinavsai2006/AI-Career-Advisor)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
-<br/>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 7: TECHNOLOGY GALAXY                            -->
+<!-- Pattern: Skill Icons dev images with category headers   -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-> ### 🏏 CricketConnect Pro
-> *Full-stack sports venue booking, tournament match-making, and user profile management system featuring live-status tracking.*
->
-> 🛠️ **Tech Stack:** `TypeScript` • `React` • `Node.js` • `PostgreSQL` • `Cloudflare Workers`
-> 🌟 **Status:** `🚀 Production`
-> 🔗 [Code Repository](https://github.com/abhinavsai2006/CricketConnect-Pro)
-
-<br/>
-
-> ### 🧺 LaundryHub AI SaaS
-> *AI-powered hostel laundry queuing platform equipped with predictive queue analytics, SMS order updates, and an automated NLP customer assistant.*
->
-> 🛠️ **Tech Stack:** `TypeScript` • `React` • `Firebase` • `Node.js`
-> 🌟 **Status:** `🚀 SaaS Active`
-> 🔗 [Code Repository](https://github.com/abhinavsai2006/LaundryHub)
-
-<br/>
-
-> ### 🏛️ Civic AI
-> *Citizen complaints classification platform using natural language processing to automatically route issues to appropriate municipal departments.*
->
-> 🛠️ **Tech Stack:** `Python` • `FastAPI` • `React` • `NLP`
-> 🌟 **Status:** `⚡ AI Platform`
-> 🔗 [Code Repository](https://github.com/abhinavsai2006/Civic-AI)
-
-<br/>
-
-> ### ⛏️ Coal Classification AI
-> *Computer Vision mineral analysis engine comparing YOLO generations for multi-category geological coal damage detection.*
->
-> 🛠️ **Tech Stack:** `Python` • `YOLO` • `OpenCV` • `PyTorch`
-> 🌟 **Status:** `✅ Research`
-> 🔗 [Code Repository](https://github.com/abhinavsai2006/Coal-Classification-AI)
-
-<br/>
-
-> ### 🧠 Hybrid Sentiment Analysis
-> *Multi-domain sentiment model using explainable AI (XAI) feature weight maps to visualize NLP classifier decisions.*
->
-> 🛠️ **Tech Stack:** `Python` • `BERT` • `LSTM` • `HuggingFace` • `Scikit-learn`
-> 🌟 **Status:** `📄 IEEE Research`
-> 🔗 [Code Repository](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)
-
-<br/>
-
-> ### 💼 Portfolio Website
-> *Clean personal developer branding website showcasing glassmorphic layout designs and premium visual components.*
->
-> 🛠️ **Tech Stack:** `HTML5` • `CSS3` • `JavaScript`
-> 🌟 **Status:** `✅ Live`
-> 🔗 [Code Repository](https://github.com/abhinavsai2006/Abhinav-Sai-Portfiolo)
-
----
-
-## 📄 Research Laboratory
-
-> ### 🧠 Hybrid Multi-Domain Sentiment Analysis Framework
-> * **Methods:** BERT Transformer, bidirectional LSTM networks, Explainable AI (XAI) feature routing.
-> * **Dataset:** Multi-domain text sentiment datasets.
-> * **Target:** IEEE submission (Manuscript in preparation).
-
-<br/>
-
-> ### 🛰️ YOLO Generation Comparison on Geological Datasets
-> * **Methods:** YOLOv8, YOLOv9, and YOLOv10 object detection benchmarks.
-> * **Dataset:** Multi-category coal and mineral dataset.
-> * **Target:** AI computer vision journal evaluation.
-
----
-
-## 🛠️ Technology Universe
-
-> ### 💻 Languages
-> Python • JavaScript • TypeScript • Java • C • C++
-
-> ### 🎨 Frontend
-> React • Next.js • HTML5 • CSS3 • Tailwind CSS • Vite
-
-> ### 🖧 Backend & Database
-> Node.js • Express • FastAPI • PostgreSQL • MySQL • MongoDB • Firebase • Supabase
-
-> ### 🤖 Artificial Intelligence
-> PyTorch • TensorFlow • Scikit-learn • OpenCV • MediaPipe
-
-> ### ☁️ Cloud & DevOps
-> AWS • Docker • Git • GitHub • Linux • Vercel • Cloudflare
-
----
-
-## 📊 Developer Analytics Dashboard
+## 🌌 Technology Galaxy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavsai2006&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&border_radius=16&ring_color=7C3AED" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=abhinavsai2006&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border_radius=16" width="49%"/>
+**`LANGUAGES`**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" alt="Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsai2006&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=E2E8F0&border_radius=16&langs_count=10" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsai2006&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&border_radius=16" width="49%"/>
+**`FRONTEND`**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" alt="Frontend"/>
+
+<br/><br/>
+
+**`BACKEND · DATABASES`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,firebase,supabase&theme=dark" alt="Backend"/>
+
+<br/><br/>
+
+**`AI · MACHINE LEARNING`**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI"/>
+
+<br/><br/>
+
+**`CLOUD · DEVOPS · TOOLS`**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,vercel,cloudflare&theme=dark" alt="DevOps"/>
 
 </div>
 
-<!-- WAVE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=40&section=header&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-## 🏙️ Contribution Center
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 8: ENGINEERING ANALYTICS DASHBOARD              -->
+<!-- Pattern: Centered image grid with balanced sizing       -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 📊 Engineering Dashboard
 
 <div align="center">
 
-> *A 3D visualization of my GitHub contribution history, updated daily.*
+<img src="https://github-readme-stats.vercel.app/api?username=abhinavsai2006&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&border_radius=12&ring_color=7C3AED" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=abhinavsai2006&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border_radius=12" width="49%" alt="Streak Stats"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/abhinavsai2006/abhinavsai2006/main/profile-3d-contrib/profile-night-view.svg?v=3" alt="3D Contribution Graph" width="100%" onerror="this.src='https://raw.githubusercontent.com/abhinavsai2006/abhinavsai2006/main/profile-3d-contrib/profile-night-view.svg'"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsai2006&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=E2E8F0&border_radius=12&langs_count=10" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsai2006&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&border_radius=12" width="49%" alt="Activity Graph"/>
 
 </div>
 
-## 🐍 Contribution Arcade
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 9: CONTRIBUTION OBSERVATORY                     -->
+<!-- Pattern: Full-width images + workflow status badges     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🔭 Contribution Observatory
 
 <div align="center">
 
-> *An interactive contribution grid animated in classic arcade snake game styling.*
+*3D visualization of contribution history · updated daily via GitHub Actions*
+
+[![3D Workflow](https://img.shields.io/github/actions/workflow/status/abhinavsai2006/abhinavsai2006/3d-contrib.yml?label=3D%20Graph&style=flat-square&logo=github&labelColor=1a0b2e&color=7c3aed)](https://github.com/abhinavsai2006/abhinavsai2006/actions/workflows/3d-contrib.yml)
+&nbsp;
+[![Snake Workflow](https://img.shields.io/github/actions/workflow/status/abhinavsai2006/abhinavsai2006/snake.yml?label=Snake&style=flat-square&logo=github&labelColor=1a0b2e&color=7c3aed)](https://github.com/abhinavsai2006/abhinavsai2006/actions/workflows/snake.yml)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/abhinavsai2006/abhinavsai2006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhinavsai2006/abhinavsai2006/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" width="100%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/abhinavsai2006/abhinavsai2006/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
-## 🏆 Achievement Wall
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-<div align="center">
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 10: ACHIEVEMENT GALLERY                         -->
+<!-- Pattern: Category-grouped details with nested lists     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://img.shields.io/badge/Pull%20Shark-Achieved-7c3aed?style=flat-square&logo=github&labelColor=1a0b2e" alt="Pull Shark"/> &nbsp;
-<img src="https://img.shields.io/badge/Yolo-Achieved-7c3aed?style=flat-square&logo=github&labelColor=1a0b2e" alt="Yolo Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/Quick%20Draw-Achieved-7c3aed?style=flat-square&logo=github&labelColor=1a0b2e" alt="Quick Draw"/> &nbsp;
-<img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-7c3aed?style=flat-square&logo=github&labelColor=1a0b2e" alt="Arctic Code Vault"/>
+## 🏆 Achievement Gallery
 
-</div>
+<details open>
+<summary><b>🌟 Leadership & Open Source</b></summary>
 
----
+- 🥇 **Top Contributor #1** — GDGoC Git & GitHub Open Source Challenge *(GDGoC VIT-AP, Mar 2025)*
+- 🤝 **AI/ML Team Lead** — Ran workshops and mentored junior developers *(GDGoC VIT-AP, 2025)*
+- 🛠️ **VIT-AP Aura Hackathon** — Built working product in 1 day, 4-person team *(2025)*
 
-## 🏆 Certification Showcase
+</details>
 
-> ### 🥇 OCI 2025 AI Foundations Associate
-> * **Issuer:** Oracle · **Year:** 2025
-> * **Scope:** Generative AI, LLMs, prompt engineering, and deployment architectures on OCI.
-> * 🔗 [[Credentials](https://matlabacademy.mathworks.com/)]
+<details>
+<summary><b>🏅 Competitions</b></summary>
 
----
+- 🥈 **2nd Place** — ElectroQuest Technical Competition *(IEI Student Chapter, 2025)*
 
-> ### 📊 Foundations of Project Management
-> * **Issuer:** Google / Coursera · **Year:** 2025
-> * **Scope:** Lifecycle management, Agile methodologies, and project planning.
-> * 🔗 [[Credentials](https://www.credly.com/badges/752AZKHZUYEJ)]
+</details>
 
----
+<details>
+<summary><b>📜 Certifications</b></summary>
 
-> ### 📈 Data Analytics Job Simulation
-> * **Issuer:** Deloitte Australia · **Year:** 2025
-> * **Scope:** Data modeling, sentiment analysis, and dashboard visualization.
-> * 🔗 [[Simulation Credentials](https://www.theforage.com/)]
+- 🥇 **OCI 2025 AI Foundations Associate** — Oracle · [Verify →](https://matlabacademy.mathworks.com/)
+- 📊 **Foundations of Project Management** — Google / Coursera · [Verify →](https://www.credly.com/badges/752AZKHZUYEJ)
+- 📈 **Data Analytics Job Simulation** — Deloitte Australia · [Verify →](https://www.theforage.com/)
+- ☕ **Fundamentals of Java Programming** — Board Infinity · [Verify →](https://www.credly.com/badges/VWU5SSNKXJ5A)
 
----
+</details>
 
-> ### ☕ Fundamentals of Java Programming
-> * **Issuer:** Board Infinity · **Year:** 2025
-> * **Scope:** Core paradigms, OOPs concepts, and collection frameworks.
-> * 🔗 [[Credentials](https://www.credly.com/badges/VWU5SSNKXJ5A)]
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
----
-
-> ### 🌟 Top Contributor #1 — GDGoC Open Source Challenge
-> * **Issuer:** GDGoC VIT-AP · **Year:** Mar 2025
-> * **Scope:** Top active contributor for Git & GitHub open source challenge.
-
----
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 11: EDUCATION JOURNEY                           -->
+<!-- Pattern: Inline flowing paragraph with arrow markers    -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🎓 Education Journey
 
-```
-🎓 VIT-AP University (2024 – 2028)
-├─ B.Tech CSE (AI & ML)
-└─ Grade: 7.5 / 10 CGPA
+🎓 **VIT-AP University** — B.Tech CSE (AI & ML) · 2024–2028 · *7.5 CGPA*
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🏫 **Narayana Junior College** — Intermediate MPC · 2022–2024 · *93%*
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🏫 **Sri Chaitanya Techno School** — SSC · 2021–2022 · *93%*
 
-🏫 Narayana Junior College (2022 – 2024)
-├─ Intermediate (MPC)
-└─ Score: 93%
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-🏫 Sri Chaitanya Techno School (2021 – 2022)
-├─ SSC
-└─ Score: 93%
-```
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 12: MISSION ROADMAP                             -->
+<!-- Pattern: Markdown task list with milestone descriptions -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
----
+## 🎯 2026 Mission Roadmap
 
-## 🎯 2026 Progress Roadmap
+- [x] **Founding Software Engineer** — Secured founding engineer role at Qaulium AI; shipped production SaaS
+- [ ] **IEEE Publication** — Submit hybrid sentiment analysis paper to IEEE conference
+- [ ] **AWS Certified** — Complete AWS Cloud Practitioner (CCP) certification
+- [ ] **Open Source Impact** — Meaningful contributions to major AI/ML open source repositories
+- [ ] **1,000+ Contributions** — Reach 1,000 GitHub contributions through consistent engineering work
 
-```
-[██████████] 100%  💼 Founding Software Engineer Role
-[████████░░]  80%  🧠 IEEE Sentiment Analysis Paper Publication
-[██████░░░░]  60%  ☁️ AWS Certified Cloud Practitioner (CCP)
-[████░░░░░░]  40%  🌐 Contribute to major Open Source AI repositories
-[████░░░░░░]  40%  📈 Reach 1,000+ GitHub contributions
-```
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- SECTION 13: FOOTER                                      -->
+<!-- Pattern: Capsule wave footer + minimal quote            -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<!-- WAVE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=40&section=header&text=&fontSize=0"/>
+<br/>
 
 <div align="center">
 
-<br/>
-
-> *"I work across the full stack and I'm looking for an internship where there is genuinely difficult work to do."*
+*"I work across the full stack and I'm looking for an internship where there is genuinely difficult work to do."*
 
 <br/>
 
-<!-- Animated Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:4c1d95,50:2d1b4e,75:1a0b2e,100:0D0D0D&height=160&section=footer&text=Let%27s%20Build%20Something%20That%20Matters&fontSize=24&fontColor=C4B5FD&fontAlignY=55&animation=twinkling&font=JetBrains%20Mono&stroke=0D0D0D&strokeWidth=2"/>
-
-<br/>
-
-<!-- Contact Center Badges -->
-<a href="mailto:abhinavsaimadapati@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=1a0b2e" alt="Email"/>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/madapati-abhinav-sai" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=1a0b2e" alt="LinkedIn"/>
-</a> &nbsp;
-<a href="https://abhinavsai.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=1a0b2e" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-**⭐ If you find my work useful, a star means a lot!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:4c1d95,50:2d1b4e,75:1a0b2e,100:0D0D0D&height=120&section=footer&fontSize=0&animation=twinkling"/>
 
 </div>
