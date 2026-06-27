@@ -42,35 +42,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 2 · DEVELOPER TERMINAL                                 -->
-<!-- Visual: bash fenced code block — shell session          -->
+<!-- 2 · ENGINEERING STATUS                                 -->
+<!-- Visual: HTML key-value dashboard table                  -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## `>_ terminal`
+## ⚡ Engineering Status
 
-```bash
-❯ whoami
-  Madapati Abhinav Sai — Full-Stack Engineer & AI Researcher
-  📍 Amaravati, India · 🎓 VIT-AP University — B.Tech CSE (AI & ML), 2024–2028
-
-❯ cat mission.txt
-  Build zero-to-one production platforms with extreme engineering discipline.
-  Ship fast. Ship well. Ship things that matter.
-
-❯ ls expertise/
-  full-stack/    → React, Next.js, Node.js, Express, PostgreSQL, Supabase, Firebase
-  ai-ml/         → BERT Fine-Tuning, YOLO, Deep Learning, Computer Vision, NLP
-  cloud/         → AWS, Docker, CI/CD, Vercel, Cloudflare, OCI
-  research/      → IEEE Papers, Explainable AI, Transformer Architectures
-
-❯ git log --oneline -3
-  e7f2a1c  feat: ship Qaulium AI production platform in 6 weeks
-  b3d9e0a  research: YOLO benchmarks on geological datasets
-  a1c4f8b  feat: CricketConnect Pro — sports venue booking SaaS
-
-❯ current_status
-  🟢 Seeking internship — genuinely difficult problems preferred
-```
+<table>
+<tr><td>👤</td><td><b>Madapati Abhinav Sai</b> — Full-Stack Engineer & AI Researcher</td></tr>
+<tr><td>📍</td><td>Amaravati, India · VIT-AP University — B.Tech CSE (AI & ML), 2024–2028</td></tr>
+<tr><td>🏗️</td><td><b>Building:</b> Production SaaS platforms, AI research systems, cloud infrastructure</td></tr>
+<tr><td>🔬</td><td><b>Research:</b> IEEE paper on hybrid sentiment analysis · YOLO geological benchmarks</td></tr>
+<tr><td>📚</td><td><b>Learning:</b> System Design · AWS Cloud · RAG Pipelines · LLM Fine-tuning</td></tr>
+<tr><td>🌐</td><td><b>Open Source:</b> AI/ML team lead · Top contributor at GDGoC VIT-AP</td></tr>
+<tr><td>🎯</td><td><b>Goal:</b> Internship where there is genuinely difficult engineering work</td></tr>
+<tr><td>🟢</td><td><b>Status:</b> Open to opportunities</td></tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
@@ -390,17 +377,30 @@ First and only engineer. Built the entire product from zero code to production: 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 12 · EDUCATION                                         -->
-<!-- Visual: Inline flowing paragraph with → arrows          -->
+<!-- 12 · EDUCATION JOURNEY                                 -->
+<!-- Visual: Vertical blockquote timeline per institution    -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🎓 Education
+## 🎓 Education Journey
 
-🎓 **VIT-AP University** · B.Tech CSE (AI & ML) · 2024–2028 · *7.5 CGPA*
-&nbsp;&nbsp;→&nbsp;&nbsp;
-🏫 **Narayana Junior College** · Intermediate MPC · 2022–2024 · *93%*
-&nbsp;&nbsp;→&nbsp;&nbsp;
-🏫 **Sri Chaitanya Techno School** · SSC · 2021–2022 · *93%*
+> ### 🎓 VIT-AP University
+> **B.Tech CSE (AI & ML)** · 2024 – 2028
+> CGPA: **7.5 / 10**
+> *Specialization in Artificial Intelligence and Machine Learning. Active in GDGoC, IEEE, and hackathons.*
+
+<br/>
+
+> ### 🏫 Narayana Junior College
+> **Intermediate (MPC)** · 2022 – 2024
+> Score: **93%**
+> *Mathematics, Physics, and Chemistry. Competitive exam preparation track.*
+
+<br/>
+
+> ### 🏫 Sri Chaitanya Techno School
+> **SSC** · 2021 – 2022
+> Score: **93%**
+> *Foundation academics with distinction.*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
