@@ -17,16 +17,16 @@
 
 <!-- Premium Status Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship-7c3aed?style=flat-square&logo=github&logoColor=f5f3ff&labelColor=1a0b2e" alt="Status"/> &nbsp;
-  <img src="https://img.shields.io/badge/Location-India-7c3aed?style=flat-square&logo=googlemaps&logoColor=f5f3ff&labelColor=1a0b2e" alt="Location"/> &nbsp;
-  <img src="https://img.shields.io/badge/Role-Founding%20Engineer-7c3aed?style=flat-square&logo=codeforces&logoColor=f5f3ff&labelColor=1a0b2e" alt="Role"/> &nbsp;
-  <img src="https://img.shields.io/badge/Research-IEEE-7c3aed?style=flat-square&logo=semantic-scholar&logoColor=f5f3ff&labelColor=1a0b2e" alt="Research"/> &nbsp;
-  <img src="https://img.shields.io/badge/Building-Qaulium%20AI-7c3aed?style=flat-square&logo=vercel&logoColor=f5f3ff&labelColor=1a0b2e" alt="Building"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Internship-7c3aed?style=flat-square&logo=github&logoColor=f5f3ff&labelColor=1a0b2e" alt="Status"/> &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-India-7c3aed?style=flat-square&logo=googlemaps&logoColor=f5f3ff&labelColor=1a0b2e" alt="Location"/> &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Role-Founding_Engineer-7c3aed?style=flat-square&logo=codeforces&logoColor=f5f3ff&labelColor=1a0b2e" alt="Role"/> &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A_Research-IEEE-7c3aed?style=flat-square&logo=semantic-scholar&logoColor=f5f3ff&labelColor=1a0b2e" alt="Research"/> &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Building-Qaulium_AI-7c3aed?style=flat-square&logo=vercel&logoColor=f5f3ff&labelColor=1a0b2e" alt="Building"/>
 </div>
 
 <br/>
 
-<!-- Aligned Social Buttons using officially supported shields.io icons -->
+<!-- Contact Badges -->
 <div align="center">
   <a href="mailto:abhinavsaimadapati@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=1a0b2e" alt="Email"/>
@@ -53,32 +53,19 @@
 
 I am a passionate software engineer and AI researcher focused on building highly efficient, production-grade web applications and machine learning systems. Currently working as the founding engineer at Qaulium AI, I specialize in full-stack architecture, machine learning research, and cloud infrastructure.
 
-* 🤖 **AI & ML**: Deep learning, transformer fine-tuning, and real-time computer vision tracking.
-* 💻 **Full Stack**: Secure, scalable web systems built with React/Next.js, Node.js, and SQL/NoSQL databases.
-* ☁️ **Cloud & DevOps**: Automated CI/CD workflows, virtualization, and highly available architecture.
+```
+$ whoami
+Madapati Abhinav Sai
 
-```typescript
-const abhinav = {
-  role             : "Founding Software Engineer @ Qaulium AI",
-  university       : "VIT-AP University — B.Tech CSE (AI & ML)",
-  batch            : "2024 – 2028",
-  location         : "Amaravati, Andhra Pradesh, India 🇮🇳",
+$ cat specialties.json
+{
+  "AI_ML": ["Deep Learning", "Transformer Fine-Tuning", "Computer Vision Tracking"],
+  "Full_Stack": ["React/Next.js", "Node.js", "PostgreSQL", "Supabase", "Firebase"],
+  "Cloud_DevOps": ["Automated CI/CD Workflows", "Docker", "Cloud Architecture"]
+}
 
-  currentWork      : [
-    "First engineer at Qaulium AI — took product to production in 6 weeks",
-    "Developed Admin and Employee portals with robust RBAC systems",
-    "Managed production deployments on Vercel with automated CI/CD",
-  ],
-
-  research         : [
-    "Fine-tuned BERT models for multi-domain sentiment analysis",
-    "Conducted YOLO algorithm performance comparisons on geological datasets",
-    "Drafting research manuscripts for IEEE publication",
-  ],
-
-  currentlyLearning: ["System Design", "AWS Cloud", "RAG Pipelines", "LLM Fine-tuning"],
-  goal             : "Seeking internships solving complex technical challenges 🚀",
-};
+$ status --currently
+Building Qaulium AI Platform... 🚀
 ```
 
 ## 🚀 Currently Building & Learning
@@ -127,6 +114,10 @@ const abhinav = {
 
 ## 💼 Experience
 
+```
+2025 ➔ Qaulium AI ➔ Founding Engineer ➔ Built SaaS Portals & RBAC ➔ Production Live
+```
+
 > ### 🏢 Founding Software Engineer — [Qaulium AI](https://github.com/abhinavsai2006)
 > *Jan 2025 – Present · Remote*
 >
@@ -141,61 +132,59 @@ const abhinav = {
 
 ## 🌟 Featured Projects
 
-<div align="left">
-
-> ### ⛏️ [Coal Classification AI](https://github.com/abhinavsai2006/Coal-Classification-AI)
-> *Deep learning system comparing multiple YOLO generations for geological coal classification across five categories with performance benchmarking.*
+> ### ⛏️ Coal Classification AI
+> Deep learning system comparing multiple YOLO generations for geological coal classification across five categories with performance benchmarking.
 >
-> 🛠️ **Tech Stack:** `Python` • `YOLO` • `OpenCV` • `PyTorch`
-> 🌟 **Status:** `✅ Research`
-> 🔗 [GitHub Code](https://github.com/abhinavsai2006/Coal-Classification-AI)
+> 🛠️ **Tech:** Python • YOLO • OpenCV • PyTorch
+> 🌟 **Status:** Research
+> 🔗 [[GitHub Code](https://github.com/abhinavsai2006/Coal-Classification-AI)]
+
+---
+
+> ### 🧠 Multi-Domain Sentiment Analysis
+> Hybrid NLP framework combining Machine Learning, Deep Learning and Transformer models for cross-domain sentiment analysis with explainability.
+>
+> 🛠️ **Tech:** Python • BERT • LSTM • HuggingFace • Scikit-learn
+> 🌟 **Status:** IEEE Research
+> 🔗 [[GitHub Code](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)]
+
+---
+
+> ### 🏏 CricketConnect Pro
+> Full-stack sports management platform supporting venue booking, tournament management and three-tier RBAC with CI/CD deployment.
+>
+> 🛠️ **Tech:** TypeScript • React • Node.js • PostgreSQL • Cloudflare Workers
+> 🌟 **Status:** Production Live
+> 🔗 [[GitHub Code](https://github.com/abhinavsai2006/CricketConnect-Pro)]
+
+---
+
+> ### 🧺 LaundryHub AI SaaS
+> AI-powered hostel laundry management SaaS featuring real-time order tracking, Firebase synchronization and an NLP chatbot.
+>
+> 🛠️ **Tech:** TypeScript • React • Firebase • Node.js
+> 🌟 **Status:** SaaS Active
+> 🔗 [[GitHub Code](https://github.com/abhinavsai2006/LaundryHub)]
+
+---
+
+> ### 🏛️ Civic AI
+> Intelligent complaint routing platform using NLP with FastAPI backend, priority scoring and a React dashboard for government officials.
+>
+> 🛠️ **Tech:** Python • FastAPI • React • NLP
+> 🌟 **Status:** AI Platform
+> 🔗 [[GitHub Code](https://github.com/abhinavsai2006/Civic-AI)]
+
+---
+
+> ### 🎓 EduVision-X
+> Computer vision powered student engagement analysis platform with real-time inference optimized for low latency feedback.
+>
+> 🛠️ **Tech:** Python • React • Computer Vision • Deep Learning
+> 🌟 **Status:** AI System
+> 🔗 [[GitHub Code](https://github.com/abhinavsai2006/EduVision-X)]
 
 <br/>
-
-> ### 🧠 [Multi-Domain Sentiment Analysis](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)
-> *Hybrid NLP framework combining Machine Learning, Deep Learning and Transformer models for cross-domain sentiment analysis with explainability.*
->
-> 🛠️ **Tech Stack:** `Python` • `BERT` • `LSTM` • `HuggingFace` • `Scikit-learn`
-> 🌟 **Status:** `📄 IEEE Research`
-> 🔗 [GitHub Code](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)
-
-<br/>
-
-> ### 🏏 [CricketConnect Pro](https://github.com/abhinavsai2006/CricketConnect-Pro)
-> *Full-stack sports management platform supporting venue booking, tournament management and three-tier RBAC with CI/CD deployment.*
->
-> 🛠️ **Tech Stack:** `TypeScript` • `React` • `Node.js` • `PostgreSQL` • `Cloudflare Workers`
-> 🌟 **Status:** `🚀 Production`
-> 🔗 [GitHub Code](https://github.com/abhinavsai2006/CricketConnect-Pro)
-
-<br/>
-
-> ### 🧺 [LaundryHub AI SaaS](https://github.com/abhinavsai2006/LaundryHub)
-> *AI-powered hostel laundry management SaaS featuring real-time order tracking, Firebase synchronization and an NLP chatbot.*
->
-> 🛠️ **Tech Stack:** `TypeScript` • `React` • `Firebase` • `Node.js`
-> 🌟 **Status:** `🚀 SaaS`
-> 🔗 [GitHub Code](https://github.com/abhinavsai2006/LaundryHub)
-
-<br/>
-
-> ### 🏛️ [Civic AI](https://github.com/abhinavsai2006/Civic-AI)
-> *Intelligent complaint routing platform using NLP with FastAPI backend, priority scoring and a React dashboard for government officials.*
->
-> 🛠️ **Tech Stack:** `Python` • `FastAPI` • `React` • `NLP`
-> 🌟 **Status:** `⚡ AI Platform`
-> 🔗 [GitHub Code](https://github.com/abhinavsai2006/Civic-AI)
-
-<br/>
-
-> ### 🎓 [EduVision-X](https://github.com/abhinavsai2006/EduVision-X)
-> *Computer vision powered student engagement analysis platform with real-time inference optimized for low latency feedback.*
->
-> 🛠️ **Tech Stack:** `Python` • `React` • `Computer Vision` • `Deep Learning`
-> 🌟 **Status:** `🤖 AI System`
-> 🔗 [GitHub Code](https://github.com/abhinavsai2006/EduVision-X)
-
-</div>
 
 <!-- WAVE DIVIDER 2: After Projects -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=40&section=header&text=&fontSize=0"/>
@@ -203,52 +192,50 @@ const abhinav = {
 ## 📄 Research & Publications
 
 > ### 🧠 Hybrid Multi-Domain Sentiment Analysis Framework
-> *Applying ML, Deep Learning & Transformers (BERT, LSTM) for explainable cross-domain NLP.*
->
-> ⏳ **Status:** In Preparation (Manuscript targeted for IEEE submission)
+> * **Target:** IEEE Publication (Manuscript in preparation)
+> * **Area:** ML · Deep Learning · Transformers (BERT, LSTM)
+> * **Scope:** Cross-domain sentiment evaluation with model interpretability.
 
-<br/>
+---
 
 > ### 🔍 Explainable AI (XAI) for Natural Language Processing
-> *Investigating model interpretability methodologies in transformer-based sentiment tasks.*
->
-> ⏳ **Status:** In Preparation
+> * **Target:** AI/NLP Interpretability Study
+> * **Area:** Explainable Transformers
+> * **Scope:** Visualizing attention maps and feature weights in deep learning sentiment pipelines.
 
-<br/>
+---
 
 > ### 🛰️ YOLO Generation Comparison on Geological Datasets
-> *Performance evaluation of YOLO algorithms for mineral identification and damages.*
->
-> ⏳ **Status:** In Preparation
+> * **Target:** Computer Vision benchmarks
+> * **Area:** Object Detection & Mineral Classification
+> * **Scope:** Evaluating YOLO generations on geological damage categories for performance and accuracy metrics.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none;">
-      <h4>💻 Languages</h4>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" alt="Languages"/>
-      <br/><br/>
-      <h4>🎨 Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" alt="Frontend"/>
-      <br/><br/>
-      <h4>🖧 Backend & APIs</h4>
-      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="Backend"/>
-    </td>
-    <td valign="top" width="50%" style="border: none;">
-      <h4>🤖 Artificial Intelligence</h4>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI"/>
-      <br/><br/>
-      <h4>🗄️ Database & Storage</h4>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&theme=dark" alt="Databases"/>
-      <br/><br/>
-      <h4>☁️ Cloud, DevOps & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,vercel,cloudflare&theme=dark" alt="DevOps"/>
-    </td>
-  </tr>
-</table>
+> ### 💻 Languages
+> Python • JavaScript • TypeScript • Java • C • C++
+
+---
+
+> ### 🎨 Frontend
+> React • Next.js • HTML5 • CSS3 • Tailwind CSS • Vite
+
+---
+
+> ### 🖧 Backend & Databases
+> Node.js • Express • FastAPI • PostgreSQL • MySQL • MongoDB • Firebase • Supabase
+
+---
+
+> ### 🤖 Artificial Intelligence
+> PyTorch • TensorFlow • Scikit-learn • OpenCV • MediaPipe
+
+---
+
+> ### ☁️ Cloud, DevOps & Tools
+> AWS • Docker • Git • GitHub • Linux • VS Code • Vercel • Cloudflare
 
 <br/>
 
@@ -297,7 +284,6 @@ const abhinav = {
 
 <div align="center">
 
-<!-- Elegant GitHub achievement badges displaying badges with fallback options -->
 <img src="https://img.shields.io/badge/Pull%20Shark-Achieved-7c3aed?style=flat-square&logo=github&labelColor=1a0b2e" alt="Pull Shark"/> &nbsp;
 <img src="https://img.shields.io/badge/Yolo-Achieved-7c3aed?style=flat-square&logo=github&labelColor=1a0b2e" alt="Yolo Badge"/> &nbsp;
 <img src="https://img.shields.io/badge/Quick%20Draw-Achieved-7c3aed?style=flat-square&logo=github&labelColor=1a0b2e" alt="Quick Draw"/> &nbsp;
@@ -309,66 +295,67 @@ const abhinav = {
 
 ## 🏆 Certifications & Awards
 
-<div align="left">
+> ### 🥇 OCI 2025 AI Foundations Associate
+> * **Issuer:** Oracle · **Year:** 2025
+> * **Scope:** Generative AI, LLMs, prompt engineering, and deployment architectures on OCI.
+> * 🔗 [[Oracle Badge](https://matlabacademy.mathworks.com/)]
 
-> ### 🥇 [Oracle Cloud Infrastructure 2025 AI Foundations Associate](https://matlabacademy.mathworks.com/)
-> *Issuer: Oracle · Year: 2025*
->
-> 💡 *Broad foundations in Generative AI, LLMs, prompt engineering, and model deployment architectures on OCI.*
+---
 
-<br/>
+> ### 📊 Foundations of Project Management
+> * **Issuer:** Google / Coursera · **Year:** 2025
+> * **Scope:** Lifecycle management, Agile methodologies, and project planning.
+> * 🔗 [[Google Badge](https://www.credly.com/badges/752AZKHZUYEJ)]
 
-> ### 📊 [Foundations of Project Management](https://www.credly.com/badges/752AZKHZUYEJ)
-> *Issuer: Google / Coursera · Year: 2025*
->
-> 💡 *Foundational knowledge of project lifecycle, Agile methodologies, and project management tools.*
+---
 
-<br/>
+> ### 📈 Data Analytics Job Simulation
+> * **Issuer:** Deloitte Australia · **Year:** 2025
+> * **Scope:** Data modeling, sentiment analysis, and dashboard visualization.
+> * 🔗 [[Simulation Credentials](https://www.theforage.com/)]
 
-> ### 📈 [Data Analytics Job Simulation](https://www.theforage.com/)
-> *Issuer: Deloitte Australia · Year: 2025*
->
-> 💡 *Data analytics simulation involving data modeling, sentiment analysis, and visualization dashboards.*
+---
 
-<br/>
+> ### ☕ Fundamentals of Java Programming
+> * **Issuer:** Board Infinity · **Year:** 2025
+> * **Scope:** Core paradigms, OOPs concepts, and collection frameworks.
+> * 🔗 [[Java Badge](https://www.credly.com/badges/VWU5SSNKXJ5A)]
 
-> ### ☕ [Fundamentals of Java Programming](https://www.credly.com/badges/VWU5SSNKXJ5A)
-> *Issuer: Board Infinity · Year: 2025*
->
-> 💡 *Core Java programming paradigms, OOPs concepts, collection frameworks, and exception handling.*
-
-<br/>
+---
 
 > ### 🌟 Top Contributor #1 — GDGoC Open Source Challenge
-> *Issuer: GDGoC VIT-AP · Year: Mar 2025*
->
-> 💡 *Acknowledged as the top contributor during the Git & GitHub open source challenge.*
-
-</div>
+> * **Issuer:** GDGoC VIT-AP · **Year:** Mar 2025
+> * **Scope:** Top active contributor for Git & GitHub open source challenge.
 
 <br/>
 
 ## 🎓 Education
 
-<div align="center">
+```
+🎓 VIT-AP University (2024 – 2028)
+├─ B.Tech CSE (AI & ML)
+└─ Grade: 7.5 / 10 CGPA
 
-| Timeline | Degree / Qualification | Institution | Grade / Score |
-|:---:|:---|:---|:---:|
-| **2024 – 2028** | B.Tech CSE (AI & ML) | VIT-AP University | 7.5 / 10 CGPA |
-| **2022 – 2024** | Intermediate (MPC) | Narayana Junior College | 93% |
-| **2021 – 2022** | SSC | Sri Chaitanya Techno School | 93% |
+🏫 Narayana Junior College (2022 – 2024)
+├─ Intermediate (MPC)
+└─ Score: 93%
 
-</div>
+🏫 Sri Chaitanya Techno School (2021 – 2022)
+├─ SSC
+└─ Score: 93%
+```
 
 <br/>
 
-## 🎯 2026 Roadmap
+## 🎯 2026 Progress Roadmap
 
-- [x] 💼 **Founding Software Engineer Role**
-- [ ] 🧠 **IEEE Sentiment Analysis Paper Publication**
-- [ ] ☁️ **AWS Certified Cloud Practitioner (CCP)**
-- [ ] 🌐 **Contribute to major Open Source AI repositories**
-- [ ] 📈 **Reach 1,000+ GitHub contributions**
+```
+[██████████] 100%  💼 Founding Software Engineer Role
+[████████░░]  80%  🧠 IEEE Sentiment Analysis Paper Publication
+[██████░░░░]  60%  ☁️ AWS Certified Cloud Practitioner (CCP)
+[████░░░░░░]  40%  🌐 Contribute to major Open Source AI repositories
+[████░░░░░░]  40%  📈 Reach 1,000+ GitHub contributions
+```
 
 <!-- WAVE DIVIDER 4: Before Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=40&section=header&text=&fontSize=0"/>
