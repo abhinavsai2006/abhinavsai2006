@@ -13,6 +13,18 @@
 
 <br/><br/>
 
+<!-- Mini Status Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Internship-7c3aed?style=flat-square&labelColor=1a0b2e"/> &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-India-7c3aed?style=flat-square&labelColor=1a0b2e"/> &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Role-Founding_Engineer-7c3aed?style=flat-square&labelColor=1a0b2e"/> &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A_Research-IEEE-7c3aed?style=flat-square&labelColor=1a0b2e"/> &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Building-Qaulium_AI-7c3aed?style=flat-square&labelColor=1a0b2e"/>
+</div>
+
+<br/>
+
+<!-- Contact Badges -->
 <a href="mailto:abhinavsaimadapati@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=1a0b2e"/>
 </a>
@@ -51,7 +63,7 @@ const abhinav = {
   currentWork      : [
     "First engineer at Qaulium AI — took product to production in 6 weeks",
     "Developed Admin and Employee portals with robust RBAC systems",
-    "Managed production deployments with high uptime and reliability",
+    "Managed production deployments on Vercel with automated CI/CD",
   ],
 
   research         : [
@@ -67,13 +79,47 @@ const abhinav = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"/> Currently Building & Learning
 
-```
-🏢  Qaulium AI          →  Production SaaS — Admin & Employee Portals, RBAC, CI/CD
-🤖  AI Career Advisor   →  Gemini API · React · Python
-🎓  Student Hub         →  Next.js · Supabase · PostgreSQL
-📄  IEEE Publication    →  Hybrid Sentiment Analysis (ML + DL + Transformers)
-☁️  Cloud & DevOps      →  AWS · Docker · Cloudflare Workers · OCI
-```
+<details>
+<summary><b>🏢 Qaulium AI — Founding Software Engineer</b></summary>
+<p>Leading the development of production SaaS portals including Admin and Employee dashboards with robust RBAC, deploying frequently with zero outages.</p>
+</details>
+
+<details>
+<summary><b>⛏️ Coal Classification AI — YOLO Research</b></summary>
+<p>Developing deep learning algorithms using multiple generations of YOLO to automate geological coal category classification.</p>
+</details>
+
+<details>
+<summary><b>🧠 Hybrid Sentiment Analysis — IEEE Publication</b></summary>
+<p>Researching cross-domain sentiment classification using BERT, LSTMs, and Explainable AI (XAI) models for manuscript publication.</p>
+</details>
+
+<details>
+<summary><b>🏏 CricketConnect Pro — Production Platform</b></summary>
+<p>A full-stack sports platform supporting venue booking, tournament brackets, and live-score updates with PostgreSQL.</p>
+</details>
+
+<details>
+<summary><b>🧺 LaundryHub AI SaaS — AI-Powered Hostel Management</b></summary>
+<p>Real-time order tracking and chatbot assistant built with React and Firebase to optimize campus laundry bookings.</p>
+</details>
+
+<details>
+<summary><b>🏛️ Civic AI — NLP Complaint Routing</b></summary>
+<p>A priority routing platform routing public complaints to departments based on gravity and context using NLP.</p>
+</details>
+
+<details>
+<summary><b>🎓 EduVision-X — Computer Vision Platform</b></summary>
+<p>Analyzing student attention and engagement markers in real-time through low-latency computer vision inference models.</p>
+</details>
+
+<details>
+<summary><b>☁️ Cloud Infrastructure & DevOps</b></summary>
+<p>Configuring secure networks, continuous integration, and virtualization environments using AWS, Docker, and OCI.</p>
+</details>
+
+<br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"/> Experience
 
@@ -90,21 +136,14 @@ const abhinav = {
 
 <div align="center">
 
-| Project | Description | Stack | Status |
+| 🚀 Project | 📖 Description | 🛠️ Tech Stack | 🌟 Status |
 |:---|:---|:---|:---:|
-| 🤖 **[AI-Career-Advisor](https://github.com/abhinavsai2006/AI-Career-Advisor)** | Interactive AI guidance tool using Gemini LLMs | React · JS · Gemini API · Tailwind | ✅ Live |
-| ⚡ **[ac-circuit-simulator](https://github.com/abhinavsai2006/ac-circuit-simulator)** | Visual AC circuit simulator with vector diagrams | TS · React · Node.js · Canvas API | ✅ Live |
-| 🧍 **[AI-ML-1-MediaPipePoseEstimation](https://github.com/abhinavsai2006/AI-ML-1-MediaPipePoseEstimation)** | Real-time physical pose tracking & estimation | Python · MediaPipe · OpenCV · NumPy | ✅ Done |
-| 🎬 **[AI-ML-0-Movie-Recommendation-System](https://github.com/abhinavsai2006/AI-ML-0-Movie-Recommendation-System)** | Recommendation system using collaborative filtering | Python · Pandas · Scikit-learn | ✅ Done |
-| 💼 **[Abhinav-Sai-Portfiolo](https://github.com/abhinavsai2006/Abhinav-Sai-Portfiolo)** | Modern, responsive portfolio showcasing UI styling | CSS · HTML · JavaScript | ✅ Live |
-
-<br/>
-
-### 📁 Featured Repositories
-
-<!-- Side-by-side Repository Cards -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinavsai2006&repo=AI-Career-Advisor&theme=midnight-purple&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&border_radius=16" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinavsai2006&repo=ac-circuit-simulator&theme=midnight-purple&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&border_radius=16" width="49%"/>
+| ⛏️ **[Coal Classification AI](https://github.com/abhinavsai2006/Coal-Classification-AI)** | Deep learning system comparing multiple YOLO generations for geological coal classification across five categories with performance benchmarking. | Python • YOLO • OpenCV • PyTorch | ✅ Research |
+| 🧠 **[Multi-Domain Sentiment Analysis](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)** | Hybrid NLP framework combining Machine Learning, Deep Learning and Transformer models for cross-domain sentiment analysis with explainability. | Python • BERT • LSTM • HuggingFace • Scikit-learn | 📄 IEEE Research |
+| 🏏 **[CricketConnect Pro](https://github.com/abhinavsai2006/CricketConnect-Pro)** | Full-stack sports management platform supporting venue booking, tournament management and three-tier RBAC with CI/CD deployment. | TypeScript • React • Node.js • PostgreSQL • Cloudflare Workers | 🚀 Production |
+| 🧺 **[LaundryHub AI SaaS](https://github.com/abhinavsai2006/LaundryHub)** | AI-powered hostel laundry management SaaS featuring real-time order tracking, Firebase synchronization and an NLP chatbot. | TypeScript • React • Firebase • Node.js | 🚀 SaaS |
+| 🏛️ **[Civic AI](https://github.com/abhinavsai2006/Civic-AI)** | Intelligent complaint routing platform using NLP with FastAPI backend, priority scoring and a React dashboard for government officials. | Python • FastAPI • React • NLP | ⚡ AI Platform |
+| 🎓 **[EduVision-X](https://github.com/abhinavsai2006/EduVision-X)** | Computer vision powered student engagement analysis platform with real-time inference optimized for low latency feedback. | Python • React • Computer Vision • Deep Learning | 🤖 AI System |
 
 </div>
 
@@ -168,7 +207,9 @@ const abhinav = {
 
 <div align="center">
 
-> 🏙️ *A 3D city built from your actual GitHub contributions — auto-updates daily*
+> "A visualization of my GitHub activity generated automatically every day."
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/abhinavsai2006/abhinavsai2006/main/profile-3d-contrib/profile-night-view.svg?v=2" alt="3D Contribution Graph" width="100%"/>
 
@@ -211,6 +252,14 @@ const abhinav = {
 
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30"/> 2026 Roadmap
+
+- [x] Founding Software Engineer Role
+- [ ] IEEE Sentiment Analysis Paper Publication
+- [ ] AWS Certified Cloud Practitioner
+- [ ] Contribute to major Open Source AI repositories
+- [ ] Reach 1,000+ GitHub contributions
+
 <!-- WAVE DIVIDER 4: Before Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=40&section=header&text=&fontSize=0"/>
 
@@ -243,8 +292,3 @@ const abhinav = {
 **⭐ If you find my work useful, a star means a lot!**
 
 </div>
-
-<!--
-  END OF PROFILE · github.com/abhinavsai2006
-  Theme: Obsidian Luxe · Built with ❤️ and a lot of caffeine
--->
