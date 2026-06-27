@@ -42,12 +42,8 @@
 
 <br/>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════╗
-     ║              LIVE PROFILE VIEWS COUNTER                               ║
-     ╚═══════════════════════════════════════════════════════════════════════╝ -->
-<img src="https://komarev.com/ghpvc/?username=abhinavsai2006&label=Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=1a0b2e" alt="Profile Views"/>
-
 </div>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
    WAVE DIVIDER — SECTION TRANSITION
@@ -263,22 +259,6 @@ const abhinav = {
    WAVE DIVIDER
 ════════════════════════════════════════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=40&section=header&text=&fontSize=0"/>
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════╗
-     ║              GITHUB TROPHIES — ACHIEVEMENT BADGES                     ║
-     ╚═══════════════════════════════════════════════════════════════════════╝ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhinavsai2006&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-   WAVE DIVIDER
-════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=40&section=header&text=&fontSize=0"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗
      ║              CERTIFICATIONS & AWARDS                                  ║

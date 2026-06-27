@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#0D0D0D" rx="16"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#A78BFA" font-family="monospace" font-size="16">
+    ⚙️ 3D Contribution City is generating... Run the GitHub Action to display your city!
+  </text>
+</svg>
