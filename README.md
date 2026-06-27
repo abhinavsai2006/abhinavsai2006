@@ -36,9 +36,6 @@
 <a href="https://github.com/abhinavsai2006">
   <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=1a0b2e"/>
 </a>
-<a href="https://twitter.com/abhinavsai2006">
-  <img src="https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=A78BFA&labelColor=1a0b2e"/>
-</a>
 
 <br/>
 
@@ -54,6 +51,14 @@
      ║                    ABOUT ME — CODE BLOCK                              ║
      ╚═══════════════════════════════════════════════════════════════════════╝ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" width="30"/> About Me
+
+I am a passionate software engineer and AI researcher focused on building highly efficient, production-grade web applications and machine learning systems. Currently working as the founding engineer at Qaulium AI, I specialize in full-stack architecture, machine learning research, and cloud infrastructure.
+
+* 🤖 **AI & ML**: Experienced in deep learning, fine-tuning transformers (BERT), and computer vision (YOLO, MediaPipe).
+* 💻 **Full Stack**: Building secure, scalable web systems using React/Next.js, Node.js, and modern databases.
+* ☁️ **Cloud & DevOps**: Deploying highly available services with Docker, AWS, and serverless workflows.
+
+---
 
 ```typescript
 const abhinav = {
@@ -79,11 +84,6 @@ const abhinav = {
 };
 ```
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-   WAVE DIVIDER
-════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=40&section=header&text=&fontSize=0"/>
-
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗
      ║                 CURRENT FOCUS — TERMINAL STYLE                        ║
      ╚═══════════════════════════════════════════════════════════════════════╝ -->
@@ -97,11 +97,6 @@ const abhinav = {
 ☁️  Cloud & DevOps      →  AWS · Docker · Cloudflare Workers · OCI
 ```
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-   WAVE DIVIDER
-════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=40&section=header&text=&fontSize=0"/>
-
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗
      ║                    EXPERIENCE SECTION                                 ║
      ╚═══════════════════════════════════════════════════════════════════════╝ -->
@@ -113,13 +108,8 @@ const abhinav = {
 
 - Built the full product from scratch: **Landing Page · Admin Portal · Employee Portal · Internal Tooling**
 - Implemented **JWT-based Role-Based Access Control (RBAC)** across all user tiers
-- Managed **30+ Vercel deployments** with zero production outages
+- Managed production deployments on Vercel with automated CI/CD workflows
 - Owned the entire engineering lifecycle: architecture → development → deployment
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-   WAVE DIVIDER
-════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=40&section=header&text=&fontSize=0"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗
      ║              FEATURED PROJECTS — PREMIUM TABLE                          ║
@@ -130,12 +120,11 @@ const abhinav = {
 
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
-| 🏏 **[CricketConnect Pro](https://github.com/abhinavsai2006/CricketConnect-Pro)** | Venue bookings, tournament management & 3-tier RBAC — 43 CI/CD iterations | TypeScript · React · Node.js · PostgreSQL · Cloudflare | ✅ Live |
-| 🤖 **[Multi-Domain Sentiment Analysis](https://github.com/abhinavsai2006/sentiment-analysis)** | 15+ classifiers on 7 NLP datasets; BERT fine-tuned to 86% on IMDB | Python · BERT · LSTM · HuggingFace · Scikit-learn | ✅ Done |
-| 🪨 **[Coal Classification AI](https://github.com/abhinavsai2006/coal-classification)** | 3 YOLO generations on 1.55 GB geological dataset, 5 damage categories | Python · YOLO · OpenCV · PyTorch | ✅ Done |
-| 🧺 **[LaundryHub AI SaaS](https://github.com/abhinavsai2006/laundryhub)** | 3-role SaaS with real-time tracking & NLP chatbot — cut queries by ~40% | TypeScript · React · Firebase · Node.js | ✅ Live |
-| 🏙️ **[Civic AI](https://github.com/abhinavsai2006/civic-ai)** | NLP classifier routes complaints to department with priority scoring | Python · FastAPI · React · NLP | ✅ Done |
-| 🎓 **[EduVision-X](https://github.com/abhinavsai2006/eduvision-x)** | Real-time student feedback via computer vision — <200ms inference | Python · React · OpenCV · Deep Learning | ✅ Done |
+| 🤖 **[AI-Career-Advisor](https://github.com/abhinavsai2006/AI-Career-Advisor)** | Interactive AI career guidance system utilizing Gemini LLM APIs | React · JavaScript · Gemini API · Tailwind CSS | ✅ Live |
+| ⚡ **[ac-circuit-simulator](https://github.com/abhinavsai2006/ac-circuit-simulator)** | Visual simulator for AC circuits with complex number arithmetic & vector diagrams | TypeScript · React · Node.js · Canvas API | ✅ Live |
+| 🧍 **[AI-ML-1-MediaPipePoseEstimation](https://github.com/abhinavsai2006/AI-ML-1-MediaPipePoseEstimation)** | Computer Vision algorithm for real-time physical pose tracking & estimation | Python · MediaPipe · OpenCV · NumPy | ✅ Done |
+| 🎬 **[AI-ML-0-Movie-Recommendation-System](https://github.com/abhinavsai2006/AI-ML-0-Movie-Recommendation-System)** | Recommendation system using collaborative filtering and content-based logic | Python · Pandas · Scikit-learn · Streamlit | ✅ Done |
+| 💼 **[Abhinav-Sai-Portfiolo](https://github.com/abhinavsai2006/Abhinav-Sai-Portfiolo)** | Modern, responsive frontend portfolio showcasing custom styling & layout | CSS · HTML · JavaScript | ✅ Live |
 
 </div>
 
@@ -156,11 +145,6 @@ const abhinav = {
 | **Hybrid Multi-Domain Sentiment Analysis Framework** | ML · Deep Learning · Transformers (BERT, LSTM) | ⏳ In Preparation |
 | **Explainable AI for Natural Language Processing** | Interpretability · NLP | ⏳ In Preparation |
 | **YOLO Generation Comparison on Geological Datasets** | Computer Vision · Object Detection | ⏳ In Preparation |
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-   WAVE DIVIDER
-════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=40&section=header&text=&fontSize=0"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗
      ║              TECH STACK — ANIMATED SKILL ICONS                        ║
@@ -190,11 +174,6 @@ const abhinav = {
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,vercel,cloudflare&perline=8&theme=dark"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-   WAVE DIVIDER
-════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=40&section=header&text=&fontSize=0"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗
      ║              GITHUB ANALYTICS — ANIMATED STATS                        ║
@@ -239,11 +218,6 @@ const abhinav = {
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-   WAVE DIVIDER
-════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=40&section=header&text=&fontSize=0"/>
-
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗
      ║              CONTRIBUTION SNAKE — CLASSIC ANIMATION                   ║
      ╚═══════════════════════════════════════════════════════════════════════╝ -->
@@ -254,11 +228,6 @@ const abhinav = {
 <img src="https://raw.githubusercontent.com/abhinavsai2006/abhinavsai2006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-   WAVE DIVIDER
-════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=40&section=header&text=&fontSize=0"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗
      ║              CERTIFICATIONS & AWARDS                                  ║
@@ -279,11 +248,6 @@ const abhinav = {
 | 🤝 | AI/ML Team Lead — Ran workshops, mentored juniors | GDGoC VIT-AP | 2025 |
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-   WAVE DIVIDER
-════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=40&section=header&text=&fontSize=0"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗
      ║              EDUCATION — TIMELINE STYLE                               ║
