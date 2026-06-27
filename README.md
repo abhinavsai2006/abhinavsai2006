@@ -4,10 +4,7 @@
   Theme: Obsidian Luxe · Aurora · Deep Amethyst
 -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 1 · HERO LANDING                                       -->
-<!-- Visual: Capsule banner + typing SVG + status chips     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 1 · HERO ═══════════════ -->
 
 <div align="center">
 
@@ -41,30 +38,30 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 2 · ENGINEERING STATUS                                 -->
-<!-- Visual: HTML key-value dashboard table                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 2 · DEVELOPER COCKPIT ═══════════════ -->
+<!-- Pattern: GitHub Alert callout (> [!NOTE])               -->
 
-## ⚡ Engineering Status
+## ⚡ Developer Cockpit
 
-<table>
-<tr><td>👤</td><td><b>Madapati Abhinav Sai</b> — Full-Stack Engineer & AI Researcher</td></tr>
-<tr><td>📍</td><td>Amaravati, India · VIT-AP University — B.Tech CSE (AI & ML), 2024–2028</td></tr>
-<tr><td>🏗️</td><td><b>Building:</b> Production SaaS platforms, AI research systems, cloud infrastructure</td></tr>
-<tr><td>🔬</td><td><b>Research:</b> IEEE paper on hybrid sentiment analysis · YOLO geological benchmarks</td></tr>
-<tr><td>📚</td><td><b>Learning:</b> System Design · AWS Cloud · RAG Pipelines · LLM Fine-tuning</td></tr>
-<tr><td>🌐</td><td><b>Open Source:</b> AI/ML team lead · Top contributor at GDGoC VIT-AP</td></tr>
-<tr><td>🎯</td><td><b>Goal:</b> Internship where there is genuinely difficult engineering work</td></tr>
-<tr><td>🟢</td><td><b>Status:</b> Open to opportunities</td></tr>
-</table>
+> [!NOTE]
+> **Madapati Abhinav Sai** · Full-Stack Engineer & AI Researcher
+>
+> 📍 Amaravati, India · VIT-AP University — B.Tech CSE (AI & ML), 2024–2028
+>
+> 🏗️ **Building** · Production SaaS platforms, AI research systems, cloud infrastructure
+>
+> 🔬 **Research** · IEEE paper on hybrid sentiment analysis · YOLO geological benchmarks
+>
+> 📚 **Learning** · System Design · AWS Cloud · RAG Pipelines · LLM Fine-tuning
+>
+> 🌐 **Open Source** · AI/ML team lead · Top contributor at GDGoC VIT-AP
+>
+> 🎯 **Mission** · Seeking an internship with genuinely difficult engineering work
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 3 · MISSION CONTROL                                    -->
-<!-- Visual: <details> collapsible panels with status codes -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 3 · MISSION CONTROL ═══════════════ -->
+<!-- Pattern: <details> collapsible panels                  -->
 
 ## 🛰️ Mission Control
 
@@ -98,145 +95,120 @@ Preparing for AWS Cloud Practitioner. Configuring container orchestration, netwo
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 4 · PRODUCT SHOWCASE                                   -->
-<!-- Visual: HTML table grid — 2 projects per row            -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 4 · CAREER EVOLUTION ═══════════════ -->
+<!-- Pattern: Nested blockquotes (> >) with date markers    -->
 
-## 🚀 Product Showcase
+## 💼 Career Evolution
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏏 CricketConnect Pro
-
-Full-stack sports platform: venue booking, tournament brackets, live-score tracking, three-tier RBAC, CI/CD.
-
-`TypeScript` `React` `Node.js` `PostgreSQL` `Cloudflare Workers`
-
-🟢 Production · [Code →](https://github.com/abhinavsai2006/CricketConnect-Pro)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧺 LaundryHub AI SaaS
-
-AI-powered hostel laundry queuing with real-time order tracking, Firebase sync, and NLP chatbot assistant.
-
-`TypeScript` `React` `Firebase` `Node.js`
-
-🟢 SaaS Live · [Code →](https://github.com/abhinavsai2006/LaundryHub)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ Civic AI
-
-NLP complaint routing for municipalities. Priority scoring engine, FastAPI backend, React dashboard for officials.
-
-`Python` `FastAPI` `React` `NLP`
-
-⚡ AI Platform · [Code →](https://github.com/abhinavsai2006/Civic-AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 EduVision-X
-
-Computer vision student engagement analysis with real-time inference optimized for low-latency classroom feedback.
-
-`Python` `React` `OpenCV` `Deep Learning`
-
-🤖 AI System · [Code →](https://github.com/abhinavsai2006/EduVision-X)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⛏️ Coal Classification AI
-
-Deep learning benchmarking: comparing YOLO generations on geological coal classification across five categories.
-
-`Python` `YOLO` `OpenCV` `PyTorch`
-
-🔬 Research · [Code →](https://github.com/abhinavsai2006/Coal-Classification-AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Hybrid Sentiment Analysis
-
-Multi-domain NLP framework: BERT + LSTM + XAI explainability for cross-domain sentiment classification.
-
-`Python` `BERT` `LSTM` `HuggingFace` `Scikit-learn`
-
-📄 IEEE Research · [Code →](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Qaulium AI Platform
-
-Enterprise B2B SaaS: multi-role admin panels, employee workforce management, production RBAC. Built as founding engineer.
-
-`Next.js` `Node.js` `Express` `JWT` `Vercel`
-
-🟢 Production · *(Private Codebase)*
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Portfolio Website
-
-Personal developer branding site with glassmorphic design, responsive layout, and premium visual components.
-
-`HTML5` `CSS3` `JavaScript`
-
-✅ Live · [Code →](https://github.com/abhinavsai2006/Abhinav-Sai-Portfiolo) · [Demo →](https://abhinavsai.com)
-
-</td>
-</tr>
-</table>
+> **2025 — Present** &nbsp; `Founding Software Engineer`
+>
+> > **Qaulium AI** · Remote
+> >
+> > First and only engineer. Took the product from zero code to production in 6 weeks. Built Landing Page, Admin Portal, Employee Portal, Internal Tooling. Implemented JWT-based RBAC across all user tiers. Managing cloud deployments on Vercel with automated CI/CD. Zero production downtime.
+> >
+> > **Impact** · Full product ownership from architecture through deployment and monitoring
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 5 · AI RESEARCH LABORATORY                             -->
-<!-- Visual: H4 key-value metadata with indented fields      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 5 · PRODUCT SHOWCASE ═══════════════ -->
+<!-- Pattern: H3 per project + <kbd> tags + --- separators  -->
 
-## 🔬 Research Laboratory
+## 🚀 Product Showcase
 
-### Paper 1 · Hybrid Multi-Domain Sentiment Analysis
+### 🏏 CricketConnect Pro
 
-#### `⏳ MANUSCRIPT IN PREPARATION`
+Full-stack sports venue booking and tournament management platform with three-tier RBAC and CI/CD deployment on Cloudflare Workers.
 
-**Architecture** · BERT Transformer + Bidirectional LSTM + Explainable AI (XAI) feature routing
-**Dataset** · Multi-domain text corpora: product reviews, social media, news articles
-**Target** · IEEE conference submission
-**Repo** · [Multi-Domain-Sentiment-Analysis](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)
+<kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>PostgreSQL</kbd> <kbd>Cloudflare Workers</kbd>
 
-### Paper 2 · YOLO Benchmarks on Geological Datasets
+🟢 Production · [Code →](https://github.com/abhinavsai2006/CricketConnect-Pro)
 
-#### `⏳ EXPERIMENTAL PHASE`
+---
 
-**Architecture** · YOLOv8 vs YOLOv9 vs YOLOv10 object detection comparison
-**Dataset** · Multi-category coal and mineral classification
-**Target** · Computer vision journal evaluation
-**Repo** · [Coal-Classification-AI](https://github.com/abhinavsai2006/Coal-Classification-AI)
+### 🧺 LaundryHub AI SaaS
+
+AI-powered hostel laundry management with real-time order tracking, Firebase synchronization, and an NLP chatbot assistant for campus operations.
+
+<kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>Firebase</kbd> <kbd>Node.js</kbd>
+
+🟢 SaaS Live · [Code →](https://github.com/abhinavsai2006/LaundryHub)
+
+---
+
+### 🏛️ Civic AI
+
+Intelligent citizen complaint routing platform using NLP. Priority scoring engine with FastAPI backend and React dashboard for government officials.
+
+<kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>NLP</kbd>
+
+⚡ AI Platform · [Code →](https://github.com/abhinavsai2006/Civic-AI)
+
+---
+
+### 🎓 EduVision-X
+
+Computer vision student engagement analysis with real-time inference optimized for low-latency classroom feedback loops.
+
+<kbd>Python</kbd> <kbd>React</kbd> <kbd>OpenCV</kbd> <kbd>Deep Learning</kbd>
+
+🤖 AI System · [Code →](https://github.com/abhinavsai2006/EduVision-X)
+
+---
+
+### ⛏️ Coal Classification AI
+
+Deep learning system comparing YOLO generations for geological coal classification across five damage categories with performance benchmarking.
+
+<kbd>Python</kbd> <kbd>YOLO</kbd> <kbd>OpenCV</kbd> <kbd>PyTorch</kbd>
+
+🔬 Research · [Code →](https://github.com/abhinavsai2006/Coal-Classification-AI)
+
+---
+
+### 🧠 Hybrid Sentiment Analysis
+
+Multi-domain NLP framework combining BERT, LSTM, and XAI explainability for cross-domain sentiment classification. IEEE manuscript in preparation.
+
+<kbd>Python</kbd> <kbd>BERT</kbd> <kbd>LSTM</kbd> <kbd>HuggingFace</kbd> <kbd>Scikit-learn</kbd>
+
+📄 IEEE Research · [Code →](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis)
+
+---
+
+### 🏢 Qaulium AI Platform
+
+Enterprise B2B SaaS: multi-role admin panels, employee workforce management, and production RBAC systems. Built as founding and sole engineer.
+
+<kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>JWT</kbd> <kbd>Vercel</kbd>
+
+🟢 Production · *(Private Codebase)*
+
+---
+
+### 💼 Portfolio Website
+
+Personal developer branding site with glassmorphic design and premium responsive components.
+
+<kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>JavaScript</kbd>
+
+✅ Live · [Code →](https://github.com/abhinavsai2006/Abhinav-Sai-Portfiolo) · [Demo →](https://abhinavsai.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 6 · TECHNOLOGY GALAXY                                  -->
-<!-- Visual: Centered skill icon grids with bold labels      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 6 · RESEARCH LABORATORY ═══════════════ -->
+<!-- Pattern: Markdown table with experiment metadata        -->
+
+## 🔬 Research Laboratory
+
+| Experiment | Architecture | Dataset | Target | Stage | Code |
+|:---|:---|:---|:---|:---:|:---|
+| **Hybrid Sentiment Analysis** | BERT + Bi-LSTM + XAI | Multi-domain text corpora | IEEE Conference | `⏳ Writing` | [Repo →](https://github.com/abhinavsai2006/Multi-Domain-Sentiment-Analysis) |
+| **YOLO Coal Classification** | YOLOv8 / v9 / v10 | Geological mineral dataset | CV Journal | `⏳ Experiments` | [Repo →](https://github.com/abhinavsai2006/Coal-Classification-AI) |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
+
+<!-- ═══════════════ 7 · TECHNOLOGY GALAXY ═══════════════ -->
+<!-- Pattern: Centered Skill Icons with bold code labels     -->
 
 ## 🌌 Technology Galaxy
 
@@ -272,12 +244,10 @@ Personal developer branding site with glassmorphic design, responsive layout, an
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 7 · ENGINEERING DASHBOARD                              -->
-<!-- Visual: Centered side-by-side stat images               -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 8 · ENGINEERING DASHBOARD ═══════════════ -->
+<!-- Pattern: Centered side-by-side <img width="49%">          -->
 
 ## 📊 Engineering Dashboard
 
@@ -293,12 +263,10 @@ Personal developer branding site with glassmorphic design, responsive layout, an
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 8 · CONTRIBUTION OBSERVATORY                           -->
-<!-- Visual: Full-width SVGs + workflow status link badges   -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 9 · CONTRIBUTION OBSERVATORY ═══════════════ -->
+<!-- Pattern: Full-width images + workflow badge links            -->
 
 ## 🔭 Contribution Observatory
 
@@ -320,107 +288,66 @@ Personal developer branding site with glassmorphic design, responsive layout, an
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 9 · ACHIEVEMENT HALL                                    -->
-<!-- Visual: Markdown unordered list with bold/italic        -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 10 · ACHIEVEMENT HALL ═══════════════ -->
+<!-- Pattern: HTML table with icon | title | org | year      -->
 
 ## 🏆 Achievement Hall
 
-- 🥇 **Top Contributor #1** — GDGoC Git & GitHub Open Source Challenge · *GDGoC VIT-AP, Mar 2025*
-- 🤝 **AI/ML Team Lead** — Ran workshops, mentored junior developers · *GDGoC VIT-AP, 2025*
-- 🛠️ **Aura Hackathon** — Built working product in 1 day with 4-person team · *VIT-AP, 2025*
-- 🥈 **2nd Place** — ElectroQuest Technical Competition · *IEI Student Chapter, 2025*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 10 · CERTIFICATION MUSEUM                              -->
-<!-- Visual: Nested blockquotes with verify links            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📜 Certification Museum
-
-> 🥇 **OCI 2025 AI Foundations Associate**
-> *Oracle · 2025* · Generative AI, LLMs, prompt engineering, OCI deployment architectures
-> [Verify →](https://matlabacademy.mathworks.com/)
-
-> 📊 **Foundations of Project Management**
-> *Google / Coursera · 2025* · Project lifecycle, Agile methodologies, planning tools
-> [Verify →](https://www.credly.com/badges/752AZKHZUYEJ)
-
-> 📈 **Data Analytics Job Simulation**
-> *Deloitte Australia · 2025* · Data modeling, sentiment analysis, dashboard visualization
-> [Verify →](https://www.theforage.com/)
-
-> ☕ **Fundamentals of Java Programming**
-> *Board Infinity · 2025* · Core paradigms, OOPs concepts, collection frameworks
-> [Verify →](https://www.credly.com/badges/VWU5SSNKXJ5A)
+<table>
+<tr><td>🥇</td><td><b>Top Contributor #1</b></td><td>GDGoC Git & GitHub Open Source Challenge</td><td><i>Mar 2025</i></td></tr>
+<tr><td>🤝</td><td><b>AI/ML Team Lead</b></td><td>GDGoC VIT-AP — workshops & mentoring</td><td><i>2025</i></td></tr>
+<tr><td>🛠️</td><td><b>Aura Hackathon</b></td><td>VIT-AP — working product in 1 day, 4-person team</td><td><i>2025</i></td></tr>
+<tr><td>🥈</td><td><b>2nd Place</b></td><td>ElectroQuest Technical Competition — IEI</td><td><i>2025</i></td></tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 11 · CAREER JOURNEY                                    -->
-<!-- Visual: H3 timeline markers with bold dates             -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 11 · CERTIFICATION VAULT ═══════════════ -->
+<!-- Pattern: Numbered ordered list with verify links          -->
 
-## 💼 Career Journey
+## 📜 Certification Vault
 
-### `2025 — Present` · Founding Software Engineer
-
-**Qaulium AI** · Remote
-
-First and only engineer. Built the entire product from zero code to production: Landing Page, Admin Portal, Employee Portal, Internal Tooling. Implemented JWT-based RBAC. Managing releases on Vercel with automated CI/CD. Zero production downtime.
+1. 🥇 **OCI 2025 AI Foundations Associate** — Oracle · Generative AI, LLMs, OCI deployment · [Verify →](https://matlabacademy.mathworks.com/)
+2. 📊 **Foundations of Project Management** — Google / Coursera · Agile, lifecycle management · [Verify →](https://www.credly.com/badges/752AZKHZUYEJ)
+3. 📈 **Data Analytics Job Simulation** — Deloitte Australia · Data modeling, dashboards · [Verify →](https://www.theforage.com/)
+4. ☕ **Fundamentals of Java Programming** — Board Infinity · OOPs, collections · [Verify →](https://www.credly.com/badges/VWU5SSNKXJ5A)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 12 · EDUCATION JOURNEY                                 -->
-<!-- Visual: Vertical blockquote timeline per institution    -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 12 · EDUCATION JOURNEY ═══════════════ -->
+<!-- Pattern: <dl><dt><dd> definition list                    -->
 
 ## 🎓 Education Journey
 
-> ### 🎓 VIT-AP University
-> **B.Tech CSE (AI & ML)** · 2024 – 2028
-> CGPA: **7.5 / 10**
-> *Specialization in Artificial Intelligence and Machine Learning. Active in GDGoC, IEEE, and hackathons.*
+<dl>
+<dt>🎓 VIT-AP University · 2024 – 2028</dt>
+<dd><b>B.Tech CSE (AI & ML)</b> · CGPA: <b>7.5 / 10</b><br/>Specialization in Artificial Intelligence and Machine Learning. Active in GDGoC, IEEE, and hackathons.</dd>
 
-<br/>
+<dt>🏫 Narayana Junior College · 2022 – 2024</dt>
+<dd><b>Intermediate (MPC)</b> · Score: <b>93%</b><br/>Mathematics, Physics, and Chemistry. Competitive exam preparation track.</dd>
 
-> ### 🏫 Narayana Junior College
-> **Intermediate (MPC)** · 2022 – 2024
-> Score: **93%**
-> *Mathematics, Physics, and Chemistry. Competitive exam preparation track.*
-
-<br/>
-
-> ### 🏫 Sri Chaitanya Techno School
-> **SSC** · 2021 – 2022
-> Score: **93%**
-> *Foundation academics with distinction.*
+<dt>🏫 Sri Chaitanya Techno School · 2021 – 2022</dt>
+<dd><b>SSC</b> · Score: <b>93%</b><br/>Foundation academics with distinction.</dd>
+</dl>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 13 · MISSION ROADMAP                                   -->
-<!-- Visual: Markdown task list with milestone descriptions  -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 13 · MISSION ROADMAP ═══════════════ -->
+<!-- Pattern: Fenced code block with visual progress bars    -->
 
-## 🎯 2026 Roadmap
+## 🎯 2026 Mission Roadmap
 
-- [x] **Founding Engineer** — Shipped production SaaS as first and only engineer
-- [ ] **IEEE Publication** — Submit hybrid sentiment analysis paper
-- [ ] **AWS Certified** — Cloud Practitioner certification
-- [ ] **Open Source** — Meaningful contributions to major AI repositories
-- [ ] **1,000+ Contributions** — Consistent engineering work across projects
+```
+████████████████████  100%  ✅  Founding Software Engineer — shipped production SaaS
+████████████████░░░░   80%  🧠  IEEE Sentiment Analysis Paper — manuscript in preparation
+████████████░░░░░░░░   60%  ☁️  AWS Cloud Practitioner Certification — studying
+████████░░░░░░░░░░░░   40%  🌐  Open Source Contributions — targeting major AI repos
+████████░░░░░░░░░░░░   40%  📈  1,000+ GitHub Contributions — building consistently
+```
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 14 · FOOTER                                            -->
-<!-- Visual: Capsule wave + centered minimal quote           -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════ 14 · FOOTER ═══════════════ -->
 
 <br/>
 
