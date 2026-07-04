@@ -315,18 +315,6 @@ Personal developer branding site with glassmorphic design and premium responsive
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
-<!-- ═══════════════ 13 · MISSION ROADMAP ═══════════════ -->
-<!-- Pattern: Fenced code block with visual progress bars    -->
-
-## 🎯 2026 Mission Roadmap
-
-```
-████████████████████  100%  ✅  Founding Software Engineer — shipped production SaaS
-████████████████░░░░   80%  🧠  IEEE Sentiment Analysis Paper — manuscript in preparation
-████████████░░░░░░░░   60%  ☁️  AWS Cloud Practitioner Certification — studying
-████████░░░░░░░░░░░░   40%  🌐  Open Source Contributions — targeting major AI repos
-████████░░░░░░░░░░░░   40%  📈  1,000+ GitHub Contributions — building consistently
-```
 
 <!-- ═══════════════ 14 · FOOTER ═══════════════ -->
 
