@@ -246,25 +246,6 @@ Personal developer branding site with glassmorphic design and premium responsive
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
 
-<!-- ═══════════════ 8 · ENGINEERING DASHBOARD ═══════════════ -->
-<!-- Pattern: Centered side-by-side <img width="49%">          -->
-
-## 📊 Engineering Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavsai2006&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&border_radius=12&ring_color=7C3AED" width="49%" alt="Stats"/>
-<img src="https://streak-stats.demolab.com?user=abhinavsai2006&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border_radius=12" width="49%" alt="Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsai2006&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=E2E8F0&border_radius=12&langs_count=10" width="49%" alt="Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsai2006&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&border_radius=12" width="49%" alt="Activity"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
-
 <!-- ═══════════════ 9 · CONTRIBUTION OBSERVATORY ═══════════════ -->
 <!-- Pattern: Full-width images + workflow badge links            -->
 
