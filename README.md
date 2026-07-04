@@ -15,17 +15,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=35&lines=Full-Stack+Systems+%C2%B7+AI%2FML+Research+%C2%B7+Cloud+Architecture;Building+Production+Platforms+from+Zero+to+One;BERT+%C2%B7+YOLO+%C2%B7+React+%C2%B7+Next.js+%C2%B7+PostgreSQL;B.Tech+CSE+(AI+%26+ML)+%40+VIT-AP+University" alt="Typing"/>
 
 <br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-Internship-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Status"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-India-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Location"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%AC-IEEE_Research-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Research"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F-Cloud_Architecture-7c3aed?style=flat-square&labelColor=1a0b2e" alt="Cloud"/>
-
 <br/><br/>
-
 <a href="mailto:abhinavsaimadapati@gmail.com"><img src="https://img.shields.io/badge/Email-1a0b2e?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/madapati-abhinav-sai"><img src="https://img.shields.io/badge/LinkedIn-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/></a>
@@ -33,7 +23,6 @@
 <a href="https://abhinavsai.com"><img src="https://img.shields.io/badge/Portfolio-1a0b2e?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/></a>
 &nbsp;
 <a href="https://github.com/abhinavsai2006"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/></a>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a0b2e&height=2&section=header"/>
