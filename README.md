@@ -43,7 +43,7 @@
 >
 > 📚 **Learning** · System Design · AWS Cloud · RAG Pipelines · LLM Fine-tuning
 >
-> 🌐 **Open Source** · AI/ML team lead · Top contributor at GDGoC VIT-AP
+> 🌐 **Open Source** · AI/ML team member · Top contributor at GDGoC VIT-AP
 >
 > 🎯 **Mission** · Seeking an internship with genuinely difficult engineering work
 
