@@ -87,17 +87,6 @@ Preparing for AWS Cloud Practitioner. Configuring container orchestration, netwo
 <!-- ═══════════════ 4 · CAREER EVOLUTION ═══════════════ -->
 <!-- Pattern: Nested blockquotes (> >) with date markers    -->
 
-## 💼 Career Evolution
-
-> **2025 — Present** &nbsp; `Founding Software Engineer`
->
-> > **Qaulium AI** · Remote
-> >
-> > First and only engineer. Took the product from zero code to production in 6 weeks. Built Landing Page, Admin Portal, Employee Portal, Internal Tooling. Implemented JWT-based RBAC across all user tiers. Managing cloud deployments on Vercel with automated CI/CD. Zero production downtime.
-> >
-> > **Impact** · Full product ownership from architecture through deployment and monitoring
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:0D0D0D&height=2&section=header"/>
 
 <!-- ═══════════════ 5 · PRODUCT SHOWCASE ═══════════════ -->
 <!-- Pattern: H3 per project + <kbd> tags + --- separators  -->
