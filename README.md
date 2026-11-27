@@ -146,16 +146,6 @@ Multi-domain NLP framework combining BERT, LSTM, and XAI explainability for cros
 
 ---
 
-### 🏢 Qaulium AI Platform
-
-Enterprise B2B SaaS: multi-role admin panels, employee workforce management, and production RBAC systems. Built as founding and sole engineer.
-
-<kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>JWT</kbd> <kbd>Vercel</kbd>
-
-🟢 Production · *(Private Codebase)*
-
----
-
 ### 💼 Portfolio Website
 
 Personal developer branding site with glassmorphic design and premium responsive components.
