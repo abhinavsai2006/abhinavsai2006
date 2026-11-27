@@ -249,7 +249,7 @@ Personal developer branding site with glassmorphic design and premium responsive
 
 <table>
 <tr><td>🥇</td><td><b>Top Contributor #1</b></td><td>GDGoC Git & GitHub Open Source Challenge</td><td><i>Mar 2025</i></td></tr>
-<tr><td>🤝</td><td><b>AI/ML Team Lead</b></td><td>GDGoC VIT-AP — workshops & mentoring</td><td><i>2025</i></td></tr>
+<tr><td>🤝</td><td><b>AI/ML Team </b></td><td>GDGoC VIT-AP — workshops & mentoring</td><td><i>2025</i></td></tr>
 <tr><td>🛠️</td><td><b>Aura Hackathon</b></td><td>VIT-AP — working product in 1 day, 4-person team</td><td><i>2025</i></td></tr>
 <tr><td>🥈</td><td><b>2nd Place</b></td><td>ElectroQuest Technical Competition — IEI</td><td><i>2025</i></td></tr>
 </table>
