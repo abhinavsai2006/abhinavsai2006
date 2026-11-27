@@ -54,13 +54,6 @@
 
 ## 🛰️ Mission Control
 
-<details open>
-<summary>🟢 <b>Production SaaS</b> · Qaulium AI &nbsp; <code>SHIPPING</code></summary>
-<br/>
-Building the entire product from zero: Landing Page, Admin Portal, Employee Portal, and Internal Tooling. JWT-based RBAC across all user tiers. Zero-downtime deployments on Vercel.
-<br/><br/>
-</details>
-
 <details>
 <summary>🔬 <b>YOLO Research</b> · Coal Classification &nbsp; <code>ACTIVE</code></summary>
 <br/>
